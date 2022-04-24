@@ -1,0 +1,27 @@
+<header className="app-header">
+        <img className='app-header-logo' src="/images/signature.png" / >
+      </header>
+
+
+
+       <Picture title="Picture 2" thumbnailUrl="/images/2.png"/>
+        <Picture title="Picture 3" thumbnailUrl="/images/3."/>
+        <Picture title="Picture 4" thumbnailUrl="/images/4.jpeg"/>
+
+        
+
+// const image1 = {
+//   title:"Picture 1",
+//   thumbnailUrl:"/images/1.jpeg"
+// }
+
+  // const picElement = Pic.map((Picture, index) => {
+  //   return <Picture key={index} Picture={Picture} />
+  // });
+
+   {/* <div className='app-grid'>
+        {picElement}
+      </div> */}
+      // stage >> ข้อมูลที่อยู่ในหน้าเว็บ 
+
+       {/* <button onClick={() => { onPictureOpenClick(images[0]) }}>see more</button> */}
